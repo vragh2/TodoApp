@@ -1,9 +1,8 @@
-
 ### Quick Setup
 
 yarn
 yarn start
-# Go to http://localhost:3000
+# Go to http://localhost:8080
 ```
 
 ### Build
@@ -11,3 +10,4 @@ yarn start
 ```bash
 yarn run build
 ```
+
